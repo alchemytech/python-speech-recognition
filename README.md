@@ -8,6 +8,3 @@ Step to run code:
   <li>python main.py</li>
 
 </ul>
-
-# Output
-https://drive.google.com/file/d/1RgBprDSMioG00harvse8_UJHYC0exUB3/view
